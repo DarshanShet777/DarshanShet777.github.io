@@ -14,8 +14,6 @@
 
 * https://www.chicagotribune.com/suburbs/buffalo-grove/ct-harper-college-free-tuition-met-20150330-story.html
 
-* https://www.chicagotribune.com/resizer/oDrSural6I89TTpgWsQnjtAP3G0=/1200x0/top/www.trbimg.com/img-55185572/turbine/ct-harper-college-free-tuition-met-20150330
-
 * https://www.cleanpng.com/png-arduino-computer-software-library-electronics-ardu-5429688/
 
 * https://cdn.elgrupoinformatico.com/img/w720/Manuales/2016/04/raspberry-pi-logo-720x405.jpg
