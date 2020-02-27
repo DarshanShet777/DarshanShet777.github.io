@@ -25,3 +25,5 @@
 * http://rollingcoal.net/wp-content/uploads/2015/06/f789.jpg
 
 * https://cdn-blog.adafruit.com/uploads/2016/05/cnc-v3-0-composed-of-cardboard-a.jpg
+
+* https://www.flickr.com/photos/caribb/2964981625/sizes/m/
